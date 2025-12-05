@@ -1,0 +1,23 @@
+════════════════════════════════════
+       KAFE GENZIGMA      
+════════════════════════════════════
+
+ID Transaksi   : 29
+Tanggal        : 04-12-2025 13:51:00
+Kasir          : obi
+Pelanggan      : andri (Meja 3)
+Catatan        : ayam katsu pedas
+
+------------------------------------
+          DAFTAR PESANAN            
+------------------------------------
+  Coffee Capuchino    1 x Rp   16.000 = Rp     16.000
+  Coklat Puding       1 x Rp   15.000 = Rp     15.000
+------------------------------------
+TOTAL          : Rp       31.000
+TUNAI          : Rp       50.000
+KEMBALIAN      : Rp       19.000
+
+     Terima kasih atas kunjungannya!
+        Selamat datang kembali!        
+════════════════════════════════════

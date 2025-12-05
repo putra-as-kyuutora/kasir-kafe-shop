@@ -1,0 +1,25 @@
+════════════════════════════════════
+       KAFE GENZIGMA      
+════════════════════════════════════
+
+ID Transaksi   : 28
+Tanggal        : 04-12-2025 13:15:23
+Kasir          : putra
+Pelanggan      : testing (Meja 2)
+Catatan        : nasi goreng nya pedas
+
+------------------------------------
+          DAFTAR PESANAN            
+------------------------------------
+  Ayam Katsu          2 x Rp   18.000 = Rp     36.000
+  Mie Goreng          1 x Rp   17.500 = Rp     17.500
+  Nasi Goreng         1 x Rp   17.000 = Rp     17.000
+  Ramen               1 x Rp   17.000 = Rp     17.000
+------------------------------------
+TOTAL          : Rp       87.500
+TUNAI          : Rp      100.000
+KEMBALIAN      : Rp       12.500
+
+     Terima kasih atas kunjungannya!
+        Selamat datang kembali!        
+════════════════════════════════════

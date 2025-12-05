@@ -1,0 +1,23 @@
+════════════════════════════════════
+       KAFE GENZIGMA      
+════════════════════════════════════
+
+ID Transaksi   : 24
+Tanggal        : 30-11-2025 22:25:13
+Kasir          : admin
+Pelanggan      : Jamal (Meja 1)
+Catatan        : Tidak pake sambel
+
+------------------------------------
+          DAFTAR PESANAN            
+------------------------------------
+  Mie Goreng          1 x Rp   17.500 = Rp     17.500
+  Ayam Katsu          1 x Rp   18.000 = Rp     18.000
+------------------------------------
+TOTAL          : Rp       35.500
+TUNAI          : Rp       50.000
+KEMBALIAN      : Rp       14.500
+
+     Terima kasih atas kunjungannya!
+        Selamat datang kembali!        
+════════════════════════════════════
