@@ -1,0 +1,24 @@
+# NetBeans build output
+build/
+dist/
+nbproject/private/
+
+# Compiled class files
+*.class
+
+# JAR files (kecuali yang disengaja dirilis)
+*.jar
+
+# Log files
+*.log
+
+# Riwayat transaksi (data lokal, jangan di-commit)
+riwayat_transaksi/*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+*.iml
+.idea/
